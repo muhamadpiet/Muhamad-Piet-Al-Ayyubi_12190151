@@ -2,8 +2,9 @@
 Sistem Informasi Perpustakaan
 #############################
 
-Oleh Muhammad Ayyub
-Instagram : @muhamadpietal
+Merupakan pembelajaran yang 
+menggunakan sistem pengerjaannya
+dengan framework Codeigniter
 
 #############################
 License
@@ -16,3 +17,10 @@ Programmer
 #############################
 
 Muhamad Piet Al Ayyubi-12190151-12.3A.07
+
+#############################
+Penulis dan Sosial Media
+#############################
+
+Oleh Muhamad Piet Al Ayyubi
+Instagram : @muhamadpietal
